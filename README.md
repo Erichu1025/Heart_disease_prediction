@@ -1,4 +1,4 @@
-# Heart Disease Prediction 
+# Heart Disease Prediction drafted version 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chayandatta/Heart_disease_prediction/master)
 
 [Final code](https://github.com/chayandatta/Heart_disease_prediction/blob/master/heart_Disease.ipynb)
